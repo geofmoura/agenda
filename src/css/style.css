@@ -45,7 +45,7 @@ body {
     border-radius: 12px;
     border: 1px solid #111010;
     background: #111010;
-    color: #fff;
+    color: #c7c3c3;
     outline: none;
 }
 
@@ -67,6 +67,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 15px;
 }
 
 .btnAcao {
