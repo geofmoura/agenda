@@ -1,11 +1,11 @@
 # Agenda de Contatos
-## Este é um projeto simples de uma agenda de contatos desenvolvida utilizando HTML, CSS e JavaScript. A aplicação permite aos usuários adicionar, visualizar, editar e excluir contatos diretamente no navegador.
+### Este é um projeto simples de uma agenda de contatos desenvolvida utilizando HTML, CSS e JavaScript. A aplicação permite aos usuários adicionar, visualizar, editar e excluir contatos diretamente no navegador.
 
-### Funcionalidades:
-#### Adicionar Contatos: Os usuários podem inserir novos contatos especificando nome, número de telefone e outras informações relevantes.
-#### Editar Contatos: Possibilidade de modificar informações de contatos já existentes na agenda.
-#### Excluir Contatos: Capacidade de remover contatos da lista.
-#### Visualização Amigável: Interface intuitiva e responsiva para uma melhor experiência do usuário.
+## Funcionalidades:
+### Adicionar Contatos: Os usuários podem inserir novos contatos especificando nome, número de telefone e outras informações relevantes.
+### Editar Contatos: Possibilidade de modificar informações de contatos já existentes na agenda.
+### Excluir Contatos: Capacidade de remover contatos da lista.
+### Visualização Amigável: Interface intuitiva e responsiva para uma melhor experiência do usuário.
 ## Tecnologias Utilizadas
 ### HTML: Estruturação básica da página web.
 ### CSS: Estilização para uma aparência agradável e funcional.
