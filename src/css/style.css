@@ -1,0 +1,85 @@
+body {
+    background: rgb(15, 15, 15);
+    color: #fff;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+}
+
+.h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteudo {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 450px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background: #201f1f;
+    padding: 55px;
+    border-radius: 10px;
+}
+
+.topo {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 35px;
+}
+
+.topo input {
+    width: 350px;
+    padding: 15px;
+    border-radius: 12px;
+    border: 1px solid #111010;
+    outline: none;
+    font-size: 1.2rem;
+    background: #111010;
+    color: #ffffff;
+}
+
+.topo button {
+    width: 45px;
+    border-radius: 12px;
+    border: 1px solid #111010;
+    background: #111010;
+    color: #fff;
+    outline: none;
+}
+
+.topo button:hover {
+    background: #201e1e;
+    cursor: pointer;
+}
+
+#listacontatos {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#listacontatos li {
+    padding: 20px;
+    background: #111010;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btnAcao {
+    border-radius: 20px;
+    border: 1px solid #111010;
+    width: 38px;
+    height: 38px;
+    margin-right: 8px;
+    cursor: pointer;
+    background: #201e1e;
+    color: #fff;
+}
+
+.btnAcao:hover {
+    background: #3d3b3b;
+}
