@@ -1,4 +1,4 @@
-# Agenda de Contatos
+# Agenda de Contatos Simples.
 ### Este é um projeto simples de uma agenda de contatos desenvolvida utilizando HTML, CSS e JavaScript. A aplicação permite aos usuários adicionar, visualizar, editar e excluir contatos diretamente no navegador.
 
 ## Funcionalidades:
