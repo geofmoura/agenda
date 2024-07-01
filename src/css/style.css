@@ -72,8 +72,6 @@ body {
     margin-top: 15px;
 }
 
-
-
 .btnAcao {
     border-radius: 20px;
     border: 1px solid #111010;
@@ -87,4 +85,45 @@ body {
 
 .btnAcao:hover {
     background: #3d3b3b;
+}
+
+@media (max-width: 768px) {
+    .topo input {
+        width: 60%;
+    }
+
+    .topo button {
+        width: 30px;
+    }
+}
+
+@media (max-width: 480px) {
+    .conteudo {
+        padding: 30px;
+    }
+
+    .topo {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .topo input {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .topo button {
+        width: 100%;
+        padding: 10px;
+    }
+
+    #listacontatos li {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .btnAcao {
+        width: 100%;
+        margin-top: 10px;
+    }
 }
